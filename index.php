@@ -10,16 +10,20 @@
 
     <!--Vue js-->
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-
+    <link rel="stylesheet" href="index.css" />
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
-    <p>This is the space where all the magic happens....</p>
-    <!--HTML CODE FOR VUE JS-->
-    <div id = "app">
-      {{message}}
-    </div>
+  
+  <h1 id="app">APP BUDDHA</h1>
+  <div>
+  </div>
+  <p>
+        <botton>MENU</botton>
+  </p>
+  <section></section>
+    
+    
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
