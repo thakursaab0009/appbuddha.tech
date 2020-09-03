@@ -14,7 +14,14 @@
     <title>Hello, world!</title>
   </head>
   <body>
-  
+
+
+
+  <?php
+
+include 'dbconnect.php';
+
+?>
   <h1 id="app">APP BUDDHA</h1>
   <div>
   </div>
