@@ -22,7 +22,7 @@
 include 'dbconnect.php';
 
 ?>
-  <h1 id="app">APP BUDDHA</h1>
+  <h1 id="app">APP BUDDHA </h1>
   <div>
   </div>
   <p>
